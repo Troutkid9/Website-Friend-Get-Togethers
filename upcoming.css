@@ -1,0 +1,39 @@
+div {
+  background-image: url("https://st2.depositphotos.com/1477822/6088/v/450/depositphotos_60888801-stock-illustration-blank-open-envelope.jpg");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  text-align: center;
+  color: black;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+}
+a {
+  text-align: center;
+  color: black;
+}
+h2 {
+  text-align: center;
+  color: black;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+body {
+  margin: 0;
+  top: 0;
+}

@@ -1,0 +1,34 @@
+div {
+    background-image: url("https://th.bing.com/th/id/R.f710f8931e1a38989f523c61c0b33bab?rik=8V5S5Y03EgsCaQ&pid=ImgRaw&r=0");
+    height: 700px;
+    min-height: 120vh;
+    width: 100%;
+    color: white;
+    background-position: 0px;
+    background-size: cover;
+  }
+  h4 {
+    color: black;
+  }
+  
+  h3 {
+    color: black;
+  }
+  a {
+    color: black;
+  }
+  h2 {
+    color: black;
+  }
+  h1 {
+    color: black;
+  }
+  
+  p {
+    color: black;
+  }
+  body {
+    margin: 0;
+    top: 0;
+  }
+  

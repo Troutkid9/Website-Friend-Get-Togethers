@@ -1,0 +1,33 @@
+div {
+  background-image: url("https://www.hdwallpaper.nu/wp-content/uploads/2015/09/7efae7f6dce13596b70641cc2b274431.jpg");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+a {
+  color: black;
+}
+h2 {
+  color: black;
+}
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+body {
+  margin: 0;
+  top: 0;
+}

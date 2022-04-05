@@ -1,0 +1,33 @@
+div {
+  background-image: url("https://th.bing.com/th/id/R.f38338bf54e6f72a16450b3861e4347e?rik=CdzBDuvoN2yYpg&riu=http%3a%2f%2fwww.freeimageslive.co.uk%2ffiles%2fimages006%2forange_cd.jpg&ehk=f9%2fKCrI2fMkcP%2fNWwNaNG19v%2f6NIFm1UY59XM83%2fWUA%3d&risl=&pid=ImgRaw&r=0");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+body {
+  margin: 0;
+  top: 0;
+}

@@ -1,0 +1,33 @@
+div {
+  background-image: url("https://cbsnews3.cbsistatic.com/hub/i/r/2015/05/08/b043b7bc-0dbd-4d0f-9aab-476367795ff8/thumbnail/1200x630/1c3b2c031c93eb6cd25392aa0a1908be/1408558771000-football.jpg");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+body {
+  margin: 0;
+  top: 0;
+}

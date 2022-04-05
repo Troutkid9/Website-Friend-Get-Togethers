@@ -1,0 +1,44 @@
+div {
+  background-image: url("https://i.ytimg.com/vi/c50pWKosmJ0/maxresdefault.jpg");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  text-align: left;
+
+  color: white;
+}
+a {
+  text-align: left;
+
+  color: white;
+}
+h2 {
+  text-align: left;
+
+  color: white;
+}
+h1 {
+  text-align: left;
+
+  color: white;
+}
+
+p {
+  text-align: left;
+
+  color: white;
+}
+body {
+  margin: 0;
+  top: 0;
+}

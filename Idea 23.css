@@ -1,0 +1,33 @@
+div {
+  background-image: url("https://th.bing.com/th/id/R.6b5517141aa30d6f8ed9660bcc3d7d20?rik=wPBAralq4aUm%2bw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fI7sThZc.jpg&ehk=CS%2bnMxfp46yJGYSyQQ4xwYWUSjejRMht87JTQalxzvQ%3d&risl=&pid=ImgRaw&r=0");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+body {
+  margin: 0;
+  top: 0;
+}

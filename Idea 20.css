@@ -1,0 +1,33 @@
+div {
+  background-image: url("https://assets.experiencescottsdale.com/simpleview/image/fetch/c_fill,h_652,q_75,w_1071/https://assets.experiencescottsdale.com/simpleview/image/upload/v1/clients/scottsdale/Proof_0097_1f12cb1a-e4f1-41c6-8509-bacd90b8b623.jpg");
+  height: 700px;
+  min-height: 120vh;
+  width: 100%;
+  color: white;
+  background-position: 0px;
+  background-size: cover;
+}
+h4 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+body {
+  margin: 0;
+  top: 0;
+}

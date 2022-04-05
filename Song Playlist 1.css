@@ -1,0 +1,30 @@
+div {
+  height: 700px;
+  min-height: 178vh;
+  width: 100%;
+  background-color: darkblue;
+}
+h4 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+body {
+  margin: 0;
+  top: 0;
+}
